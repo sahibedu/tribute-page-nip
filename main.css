@@ -1,4 +1,4 @@
-h1,#diff,#Name,#timeline	{
+h1,#diff,#Name	{
  		font-family: 'EB Garamond', serif;
  		text-align:center;
  		margin:10px;
@@ -34,6 +34,9 @@ h1,#diff,#Name,#timeline	{
  	{
  		text-align: center;
  		margin: auto;
+ 		font-family: 'EB Garamond', serif;
+ 		text-align:center;
+ 		margin:10px;
 
  	}
 
