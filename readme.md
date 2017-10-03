@@ -5,4 +5,11 @@
 ### 3. Read about _Charles Babbage_
 
 ## _Contributers_
-### Team **[NiP]**
+### 1-Sahib Singh
+### 2-Rounak Arya
+### 3- Karan
+### 4- Harshita
+### 5- Gagan
+
+## Team **[NiP]**
+
